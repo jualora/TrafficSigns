@@ -1,0 +1,1 @@
+En el enlace https://drive.google.com/drive/folders/10d_wM5cakZq_YrZCcI3NlClQKeclRPDQ?usp=sharing se encuentran las muestras (y sus correspondientes etiquetas) para entrenamiento y evaluación, junto con el modelo VGG19 entrenado.
